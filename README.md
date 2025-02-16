@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Camila Cardoso de Menezes
+Matricula: 885761
 
 ## Tela de inspeção com navegador
+![navegador](image.png)
 
 
 ## Tela de projeto no Replit
-
+![replit](image-1.png)
